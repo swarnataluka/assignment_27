@@ -1,0 +1,31 @@
+{
+  "name": "assignment27.1",
+  "jest": {
+    "verbose": true
+  },
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test:unit": "jest --watchAll",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0",
+    "jest": "^23.6.0",
+    "react-test-renderer": "^16.5.1"
+  },
+  "author": "Thaluka Swarna Latha",
+  "license": "ISC"
+}
